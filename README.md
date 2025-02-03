@@ -58,4 +58,4 @@ If you like my work, consider supporting me via Paytm!
 
 ---
 # 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahilraz&label=👤+Profile%20views&20&color=0e75b6&style=flat" alt="sahilraz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahilraz&label=👤Profile%20views&20&color=0e75b6&style=flat" alt="sahilraz" /> </p>
