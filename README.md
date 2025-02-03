@@ -24,19 +24,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sahilraz&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilraz&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilraz&theme=radical" width="48%"/>
-</p>
-
 ## 🔥 GitHub Stars:
 <p align="center">
   <img src="https://img.shields.io/github/stars/sahilraz?style=for-the-badge&logo=github&label=Stars" alt="Total Stars"/>
 </p>
-
----
 
 ## 🛠 Tech Stack:
 <p align="left">
@@ -61,8 +52,10 @@ If you like my work, consider supporting me via Paytm!
 **Paytm UPI ID:** `paytmqr13f34lb8t2@paytm`
 
 <p><a href="https://www.buymeacoffee.com/devilboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahilraz" /></a></p><br><br>
-  
----
 
 ## 🚀 Fun Fact:
 💡 *"Keep learning, keep building!"* 🚀
+
+---
+# 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilraz&label=👤+Profile%20views&color=0e75b6&style=flat" alt="sahilraz" /> </p>
