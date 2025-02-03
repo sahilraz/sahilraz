@@ -5,6 +5,8 @@
 </p>
 
 # 💫 About Me:
+<img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/DCd-sK7uyH0AAAAC/cute-cat-tiny.gif">
+
 - 🔥 I’m currently working with **[Shahil](https://github.com/Shahilali5)**
 - 🌟 I specialize in **Bot Development, Web Development, and Automation**
 - 📍 I’m from **Patna, Bihar, India**
@@ -17,9 +19,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sahilraz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devilboy_here0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilraz) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/exp_is_here) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:sahilraz9265@gmail.com)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahilraz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahilraz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilraz&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilraz&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=48%/>
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sahilraz&limit=5&theme=radical&combine_all_yearly_contributions=true)
