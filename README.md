@@ -12,7 +12,8 @@
 - 📍 I’m from **Patna, Bihar, India**
 - 💼 Owner of **multiple Telegram Bots & Web Projects**
 - 🏆 I love coding and building **unique solutions**  
-- 📧 Reach me at **sahilraz9265@gmail.com** 
+- 📧 Reach me at **sahilraz9265@gmail.com**
+- 💬 Fun Fact: **I'm Funny**
 
 
 ## 🌐 Socials:
