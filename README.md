@@ -16,6 +16,11 @@
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sahilraz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devilboy_here0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilraz) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/exp_is_here) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:sahilraz9265@gmail.com)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sahilraz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sahilraz&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -26,17 +31,6 @@
 ## 🔥 GitHub Stars:
 <p align="center">
   <img src="https://img.shields.io/github/stars/sahilraz?style=for-the-badge&logo=github&label=Stars" alt="Total Stars"/>
-</p>
-
-
-
----
-
-## 🔗 Connect With Me:
-<p align="left">
-<a href="https://t.me/exp_is_here" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?style=for-the-badge&logo=telegram&logoColor=white" height="50"/></a>
-<a href="https://instagram.com/devilboy_here0" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="50"/></a>
-<a href="mailto:sahilraz9265@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/></a>
 </p>
 
 ---
