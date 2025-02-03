@@ -62,5 +62,14 @@
 
 ---
 
+## 💎 Support Me:
+If you like my work, consider supporting me via Paytm!
+
+**Paytm UPI ID:** `paytmqr13f34lb8t2@paytm`
+
+<p><a href="https://www.buymeacoffee.com/devilboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahilraz" /></a></p><br><br>
+  
+---
+
 ## 🚀 Fun Fact:
 💡 *"Keep learning, keep building!"* 🚀
