@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&width=900&lines=🚀+A+Passionate+Developer+From+India;💻+Frontend+and+Backend+Developer;🔥+Expert+in+Python%2C+Java%2C+PHP%2C+JavaScript;🌍+Web+Dev%3A+HTML%2C+CSS%2C+JavaScript%2C+PHP;🤖+Bot+Dev%3A+Telegram+Bots%2C+AI+Assistants;🛠+Frameworks%3A+Node.js%2C+Next.Js%2C+React.js%2C+Express.js" alt="Typing SVG">
 </p>
 
----
-
 # 💫 About Me:
 - 🔥 I’m currently working with **[Shahil](https://github.com/Shahilali5)**
 - 🌟 I specialize in **Bot Development, Web Development, and Automation**
