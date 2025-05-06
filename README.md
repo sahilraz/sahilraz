@@ -7,7 +7,7 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/DCd-sK7uyH0AAAAC/cute-cat-tiny.gif">
 
-- 🔥 I’m currently working with **[Shahil](https://github.com/Shahilali5)**
+- 🔥 I’m currently working with **[Tanji](https://github.com/toxicraunak)**
 - 🌟 I specialize in **Bot Development, Web Development, and Automation**
 - 📍 I’m from **Patna, Bihar, India**
 - 💼 Owner of **multiple Telegram Bots & Web Projects**
