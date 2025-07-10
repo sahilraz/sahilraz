@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-<img align="right" alt="Coding" width="auto" src="https://media1.tenor.com/m/DCd-sK7uyH0AAAAC/cute-cat-tiny.gif">
+<img align="right" alt="Coding" width="200px" src="https://media1.tenor.com/m/DCd-sK7uyH0AAAAC/cute-cat-tiny.gif">
 
 
 - 🔥 I’m currently working with **[Tanji](https://github.com/toxicraunak)**
