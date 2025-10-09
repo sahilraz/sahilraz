@@ -33,7 +33,7 @@
 
 ## 🔥 GitHub Stars:
 <p align="center">
-  <img src="https://img.shields.io/github/stars/sahilraz/sahilraz?style=for-the-badge&logo=github&label=Stars" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/stars/sahilraz/sahilraz" alt="Total Stars"/>
 </p>
 
 ## 🐍 My Contributions 🐍
